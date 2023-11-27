@@ -1,8 +1,7 @@
 ## Oi! Eu sou o Nick.
 
-- 🔭 Hoje eu estudo para o back-end. 
-- 🌱 Estudando: Java, Python e JavaScript.
-- 😄 Pronomes: ele/dele
+- 🔭 Só quero o meu diploma. 
+- 🌱 Estudando: Várias coisas ao mesmo tempo.
 
 <div align="left">
   <a href="https://github.com/tioace">
@@ -24,9 +23,9 @@
 ##
   
 <div> 
-  <a href="https://instagram.com/i_m_fael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/nikku#1603" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://telegram.com/zukinho" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/van__passos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://telegram.com/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/tioace/tioace/blob/output/github-contribution-grid-snake.svg)
  
